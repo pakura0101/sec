@@ -19,8 +19,12 @@ This Python script is designed to:
 - ELF file from HTB task 1
 
 Install dependencies:
+```bash
+pip install pwntools```
 
-pip install pwntools
 
+Usage :
+```bash
+python3 decode_execute.py```
 
 
