@@ -20,11 +20,13 @@ This Python script is designed to:
 
 Install dependencies:
 ```bash
-pip install pwntools```
+pip install pwntools
+```
 
 
 Usage :
 ```bash
-python3 decode_execute.py```
+python3 decode_execute.py
+```
 
 
